@@ -1,4 +1,4 @@
-# switchbox_gui
+# README.md
 ## tool chain installing
 * jenkins version 2.0
 * java version 8u91 jdk
