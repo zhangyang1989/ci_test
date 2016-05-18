@@ -11,11 +11,3 @@
 * show hidden folder and files in Finder
 ** run “defaults write com.apple.finder AppleShowAllFiles YES; killall Finder” at terminal command
 ** revert back, run “defaults write com.apple.finder AppleShowAllFiles NO; killall Finder”
-
-## Mac Shortcut
-* Line End: Command + Right Arrow
-* Line Home: Command + Left Arrow
-* Copy: Command + C
-* Cut: Command + X
-* Paste: Command + V
-* Save: Command + S
